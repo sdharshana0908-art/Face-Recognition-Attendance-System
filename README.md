@@ -23,7 +23,7 @@ To ensure this project is entirely turnkey and executable with a single command 
 
 ---
 
-## 🛠️ Installation & Activation Sequences
+### 🛠️ Installation & Activation Sequences
 
 1. Set up a pristine Python execution environment:
 ```bash
